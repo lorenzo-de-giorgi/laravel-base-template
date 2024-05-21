@@ -9,6 +9,14 @@ $fa-font-path: "../webfonts" !default;
 
 @import "~bootstrap/scss/bootstrap.scss";
 
-h1{
-    color: $text-color;
+header{
+    background-color: red;
+}
+
+.ldg-main{
+    background-color: blue;
+}
+
+footer{
+    background-color: green;
 }
